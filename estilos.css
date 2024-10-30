@@ -1,0 +1,39 @@
+
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    color: white;
+    font-style:italic;
+}
+
+h1{
+
+    color: white;
+    text-align: center;
+}
+
+h2{
+
+    color: white;
+    text-align: center;
+}
+
+h3{
+
+    color: white;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+footer{
+color: white;
+text-align: center;
+font-size: 25px;
+
+}
